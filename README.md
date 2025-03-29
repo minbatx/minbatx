@@ -1,18 +1,18 @@
-# **Fitur-fitur Minbat X**  
+# **✨ Fitur-fitur Minbat X ✨**  
 
-## **Fitur Utama:**  
-- **Deteksi sender** yang difollback secara otomatis dengan aman  
-- **Menfess hingga 300+ per hari**  
-- **Filter menfess dengan AI**  
-- **Upload lebih dari 1 gambar/video**  
-- **Unsend menfess**  
-- **Delvote menfess**  
-- **Kelola lebih dari 1 autobase dalam 1 akun**  
-- **Sender dapat menambah/switch akun**  
-- **Manajemen admin:** Kelola admin, atur akses, dan log aktivitas
-- **Sender Premium** (opsional)
+## **🔹 Fitur Utama:**  
+✔️ **Deteksi sender** yang difollback secara otomatis dengan aman  
+✔️ **Menfess hingga 300+ per hari**  
+✔️ **Filter menfess dengan AI**  
+✔️ **Upload lebih dari 1 gambar/video**  
+✔️ **Unsend menfess**  
+✔️ **Delvote menfess**  
+✔️ **Kelola lebih dari 1 autobase dalam 1 akun**  
+✔️ **Sender dapat menambah/switch akun**  
+✔️ **Manajemen admin:** Kelola admin, atur akses, dan log aktivitas
+✔️ **Sender Premium** (opsional)
 
-## **Pengaturan Base (Fitur Lengkap):**  
+## **⚙️ Pengaturan Base (Fitur Lengkap):**  
 - **Aktifkan/Nonaktifkan autobase**  
 - **Atur trigger base**  
 - **Atur kuota menfess base** (reset otomatis sesuai waktu yang ditentukan)  
@@ -32,12 +32,12 @@
 - **Atur whitelist sender**  
 - **Atur akun developer**  
 
-## **Data & Statistik:**  
+## **📊 Data & Statistik:**  
 - **Lihat data sender**  
 - **Lihat statistik base** (ringkasan performa base)  
 - **Lihat history menfess**  
 
-## **Sender Premium (Opsional):**  
+## **💎 Sender Premium (Opsional):**  
 - **4 tipe model Sender Premium:**  
   - **Pay2Fess** (bayar per menfess)  
   - **Paket** (paket menfess dengan harga dan masa aktif tertentu)  
@@ -47,14 +47,14 @@
 - **Atur batas menfess gratis khusus sender yang difollback**  
 - **Lihat history pembelian sender premium**  
 
-## **Integrasi API & Third-Party:**  
-- **API Resmi X** *(akses resmi dari platform X)*:  
+## **🔗 Integrasi API & Third-Party:**  
+🔹 **API Resmi X** *(akses resmi dari platform X)*:  
   - **Delete & post 17 tweet/hari**  
   - **Dukungan multi gambar/video**  
-- **Third-Party Legal 1 (IFTTT)** *(pihak ketiga resmi)*:  
+🔹 **Third-Party Legal 1 (IFTTT)** *(pihak ketiga resmi)*:  
   - **Post 200 tweet/hari**  
   - **1 gambar per tweet**  
-- **Third-Party Legal 2 (Buffer)** *(pihak ketiga resmi)*:  
+🔹 **Third-Party Legal 2 (Buffer)** *(pihak ketiga resmi)*:  
   - **Post 100 tweet/hari**  
   - **Dukungan multi gambar**  
 
