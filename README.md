@@ -9,7 +9,7 @@
 ✔️ **Delvote menfess**  
 ✔️ **Kelola lebih dari 1 autobase dalam 1 akun**  
 ✔️ **Sender dapat menambah/switch akun**  
-✔️ **Manajemen admin:** Kelola admin, atur akses, dan log aktivitas
+✔️ **Manajemen admin:** Kelola admin, atur akses, dan log admin  
 ✔️ **Sender Premium** (opsional)
 
 ## **⚙️ Pengaturan Base (Fitur Lengkap):**  
@@ -50,10 +50,12 @@
 ## **🔗 Integrasi API & Third-Party:**  
 🔹 **API Resmi X** *(akses resmi dari platform X)*:  
   - **Delete & post 17 tweet/hari**  
-  - **Dukungan multi gambar/video**  
+  - **Dukungan multi gambar/video**
+
 🔹 **Third-Party Legal 1 (IFTTT)** *(pihak ketiga resmi)*:  
   - **Post 200 tweet/hari**  
   - **1 gambar per tweet**  
+
 🔹 **Third-Party Legal 2 (Buffer)** *(pihak ketiga resmi)*:  
   - **Post 100 tweet/hari**  
   - **Dukungan multi gambar**  
